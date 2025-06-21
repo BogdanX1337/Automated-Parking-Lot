@@ -1,0 +1,100 @@
+Loc 1: BH96BGD (de la 2025-06-21 20:38:26, taxa curenta: 5 Lei)
+Loc 2: BH11ABC (de la 2025-06-21 20:38:44, taxa curenta: 5 Lei)
+Loc 3: BH22ABC (de la 2025-06-21 20:39:21, taxa curenta: 5 Lei)
+Loc 4: BH33ABC (de la 2025-06-21 20:56:07, taxa curenta: 5 Lei)
+Loc 5: BH44ABC (de la 2025-06-21 20:56:32, taxa curenta: 5 Lei)
+Loc 6: BH55ABC (de la 2025-06-21 21:04:57, taxa curenta: 5 Lei)
+Loc 7: BH66ABC (de la 2025-06-21 21:05:09, taxa curenta: 5 Lei)
+Loc 8: BH77ABC (de la 2025-06-21 21:07:42.684828, taxa curenta: 5 Lei)
+Loc 9: BH88ABC (de la 2025-06-21 21:07:58.722291, taxa curenta: 5 Lei)
+Loc 10: BH99ABC (de la 2025-06-21 21:08:21.709172, taxa curenta: 5 Lei)
+Loc 11: Liber
+Loc 12: Liber
+Loc 13: Liber
+Loc 14: Liber
+Loc 15: Liber
+Loc 16: Liber
+Loc 17: Liber
+Loc 18: Liber
+Loc 19: Liber
+Loc 20: Liber
+Loc 21: Liber
+Loc 22: Liber
+Loc 23: Liber
+Loc 24: Liber
+Loc 25: Liber
+Loc 26: Liber
+Loc 27: Liber
+Loc 28: Liber
+Loc 29: Liber
+Loc 30: Liber
+Loc 31: Liber
+Loc 32: Liber
+Loc 33: Liber
+Loc 34: Liber
+Loc 35: Liber
+Loc 36: Liber
+Loc 37: Liber
+Loc 38: Liber
+Loc 39: Liber
+Loc 40: Liber
+Loc 41: Liber
+Loc 42: Liber
+Loc 43: Liber
+Loc 44: Liber
+Loc 45: Liber
+Loc 46: Liber
+Loc 47: Liber
+Loc 48: Liber
+Loc 49: Liber
+Loc 50: Liber
+Loc 51: Liber
+Loc 52: Liber
+Loc 53: Liber
+Loc 54: Liber
+Loc 55: Liber
+Loc 56: Liber
+Loc 57: Liber
+Loc 58: Liber
+Loc 59: Liber
+Loc 60: Liber
+Loc 61: Liber
+Loc 62: Liber
+Loc 63: Liber
+Loc 64: Liber
+Loc 65: Liber
+Loc 66: Liber
+Loc 67: Liber
+Loc 68: Liber
+Loc 69: Liber
+Loc 70: Liber
+Loc 71: Liber
+Loc 72: Liber
+Loc 73: Liber
+Loc 74: Liber
+Loc 75: Liber
+Loc 76: Liber
+Loc 77: Liber
+Loc 78: Liber
+Loc 79: Liber
+Loc 80: Liber
+Loc 81: Liber
+Loc 82: Liber
+Loc 83: Liber
+Loc 84: Liber
+Loc 85: Liber
+Loc 86: Liber
+Loc 87: Liber
+Loc 88: Liber
+Loc 89: Liber
+Loc 90: Liber
+Loc 91: Liber
+Loc 92: Liber
+Loc 93: Liber
+Loc 94: Liber
+Loc 95: Liber
+Loc 96: Liber
+Loc 97: Liber
+Loc 98: Liber
+Loc 99: Liber
+Loc 100: Liber
